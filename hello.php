@@ -1,5 +1,5 @@
 <?php
-$message = 'hello,world';
+$message = 'hello,world!!!!';
 ?>
 <!DOCTYPE html>
 <html lang="ja">
