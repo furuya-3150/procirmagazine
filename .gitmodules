@@ -1,0 +1,3 @@
+[submodule "Cakephp"]
+	path = Cakephp
+	url = ./Cakephp
